@@ -26,6 +26,6 @@ The address of our website: https://zherdesh.ru/.
 
 ### Download it on platforms:
 ### Google play :
-[![Google play](https://play.google/howplayworks/static/assets/social/share_google_play_logo.png)](https://play.google.com/store/apps/details?id=com.zherdeshapp.zherdeshmobileapplication)
+[![Google play](https://logos-world.net/wp-content/uploads/2020/12/Google-Play-Logo.png)](https://play.google.com/store/apps/details?id=com.zherdeshapp.zherdeshmobileapplication)
 ### App store :
 [![App Store](https://1000logos.net/wp-content/uploads/2020/08/apple-app-store-logo.jpg)](https://apps.apple.com/kg/app/zherdesh/id6478204121)
